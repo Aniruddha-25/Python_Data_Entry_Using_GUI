@@ -1,8 +1,9 @@
 # 📊 Python Data Entry Using GUI
-A simple Data Entry and Display application built with Python, Tkinter, and PostgreSQL. This tool enables users to enter employee data through a graphical interface, store it securely in a PostgreSQL database, and view all records in a paginated table.
+#### A simple Data Entry and Display application built with Python, Tkinter, and PostgreSQL. This tool enables users to enter employee data through a graphical interface, store it securely in a PostgreSQL database, and view all records in a paginated table.
 
 
  ## Features
+ 
 - User-friendly data entry form with field validation
 
 - Automatic age calculation based on Date of Birth
