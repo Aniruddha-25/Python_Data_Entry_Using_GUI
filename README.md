@@ -21,25 +21,25 @@
 - Easy setup and local execution
 
 ## How to Use
-1. Clone the Repository
-2.  Install Libraries
-  ````
-   pip install -r Requirement.txt
-  ````
-4.  Setup PostgreSQL
+1) Clone the Repository
+1)  Install Libraries
+    ````
+     pip install -r Requirement.txt
+    ````
+1)  Setup PostgreSQL
      - Open your PostgreSQL client and run:
 
 
-  ````     
-    CREATE DATABASE person_data;
-  ````
+    ````     
+      CREATE DATABASE person_data;
+    ````
      
-   - Ensure your database connection details are updated in the script (e.g., host, port, username, password).
-6. Run the Application
+     - Ensure your database connection details are updated in the script (e.g., host, port, username, password).
+1) Run the Application
    
-````
- python Program.py
- ````
+    ````
+     python Program.py
+     ````
      
    ### Usage
 -  Open the GUI window.
