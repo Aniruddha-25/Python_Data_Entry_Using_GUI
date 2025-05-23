@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/eb202814-4116-403c-8f2f-c5ae1c1fb347
+
+
+
 # 📊 Python Data Entry Using GUI
 #### A simple Data Entry and Display application built with Python, Tkinter, and PostgreSQL. This tool enables users to enter employee data through a graphical interface, store it securely in a PostgreSQL database, and view all records in a paginated table.
 
